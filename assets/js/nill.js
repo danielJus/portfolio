@@ -79,10 +79,10 @@ function pagePilling() {
       tooltips: [
         "HOME",
         "ABOUT ME",
-        "RESUME",
+        "SKILLS",
         "SERVICES",
         "PORTFOLIO",
-        "CLIENT",
+        "CONTACT",
         "BLOG",
         "CONTACT",
         "FOOTER"
