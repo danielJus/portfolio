@@ -378,7 +378,7 @@ function mapInit() {
   if ($("#my-map").length) {
     var options = {
       //center: new google.maps.LatLng(43.053454, -76.144508),
-      center: new google.maps.LatLng(8.4255, -80.1054),
+      center: new google.maps.LatLng(40.73061, -73.935242),
       zoom: 7,
       mapTypeControl: true,
       gestureHandling: "cooperative",
